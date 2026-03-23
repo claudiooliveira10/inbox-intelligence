@@ -1,0 +1,6 @@
+```bash
+output/
+input/
+*.log
+*.csv
+__pycache__/
