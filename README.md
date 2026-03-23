@@ -1,7 +1,7 @@
 # 📬 Inbox Intelligence
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x300?text=Inbox+Intelligence" />
+  <img src="./assets/banner.png" alt="Inbox Intelligence banner" width="100%" />
 </p>
 
 > Transform raw emails into structured, AI-ready knowledge.
