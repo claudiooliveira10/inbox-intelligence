@@ -65,7 +65,7 @@ output/
 ├── index.csv
 └── erros.log
 
-🚀 Usage
+##🚀 Usage
 
 python3 converter_emails_notebooklm.py
 
@@ -73,13 +73,12 @@ Or with custom paths:
 
 python3 converter_emails_notebooklm.py \
   --input "./input" \
-
   --output "./output"
 
 
 ⸻
 
-🧠 Use Cases
+##🧠 Use Cases
 	•	Email analysis
 	•	CRM data extraction
 	•	AI training data preparation
@@ -88,7 +87,7 @@ python3 converter_emails_notebooklm.py \
 
 ⸻
 
-⚙️ Tech
+##⚙️ Tech
 	•	Python
 	•	Email parsing (MIME)
 	•	Data processing
@@ -96,17 +95,17 @@ python3 converter_emails_notebooklm.py \
 
 ⸻
 
-🔥 Vision
+##🔥 Vision
 
 This is not just a script.
 
 It’s the foundation of a system that turns:
 
-📥 Emails → 🧠 Intelligence → 🚀 Decisions
+##📥 Emails → 🧠 Intelligence → 🚀 Decisions
 
 ⸻
 
-👤 Author
+##👤 Author
 
 Cláudio Oliveira
 CEO @ CoopTec
