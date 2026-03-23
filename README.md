@@ -64,3 +64,16 @@ output/
 ├── notebooklm_bundles/
 ├── index.csv
 └── erros.log
+
+🚀 Usage
+
+python3 converter_emails_notebooklm.py
+
+Or with custom paths:
+
+python3 converter_emails_notebooklm.py \
+  --input "./input" \
+  --output "./output"
+python3 converter_emails_notebooklm.py \
+  --input "./input" \
+  --output "./output"
